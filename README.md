@@ -20,4 +20,4 @@
 
 我就放张图算了...太晚了我熬不住了 :pensive:
 
-![alt t](C:\Users\轩上网的地方\Desktop\服创大赛\fcds\result.svg "result")
+![alt t](.\result.svg "result")
